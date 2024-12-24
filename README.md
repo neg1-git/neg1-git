@@ -1,4 +1,4 @@
-## Hi there 👋 I am Sahil
+## Hi there 👋 I am Sahil Negi
 
 <!--
 **neg1-git/neg1-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
